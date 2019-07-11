@@ -7,30 +7,431 @@ New York
 OXFORD UNIVERSITY PRESS
 1996
 
-The Time Machine
-Contents
 
 CONTENTS
 
- I Introduction
- II The Machine
- III The Time Traveller Returns
- IV Time Travelling
- V In the Golden Age
- VI The Sunset of Mankind
- VII A Sudden Shock
- VIII Explanation
- IX The Morlocks
- X When Night Came
- XI The Palace of Green Porcelain
- XII In the Darkness
- XIII The Trap of the White Sphinx
- XIV The Further Vision
- XV The Time Traveller’s Return
- XVI After the Story
- Epilogue
+	Acknowledgements 6
+	Biographical Preface 7
+	Introduction  8
+	Note on the text 32
+	Select Bibliography 39
+	A Chronology of H. G. Wells 40
+	THE TIME MACHINE 1
+	THE ISLAND OF DOCTOR MOREAU 93
+	Appendix: The Introduction to the first edition of The Island of Doctor Morreau 222
+	Explanatory Notes 224
 
+BIOGRAPHICAL PREFACE 
+Herbert George Wells's early life was a struggle against social and physical disadvantages. He was born on 21 September 1866 in Bromley, Kent, where his father was an unsuccessful small shopkeeper. Joseph Wells was originally a gardener by trade, and it was while he was working at Uppark, a large country mansion on the Sussex Downs, that he met and courted Sarah Neal, a lady's maid. Joe Wells's one claim to fame lay in his brief career as a professional cricketer; in 1862, bowling for Kent against Sussex, he took four wickets in four balls, a feat that still stands in the record books. 
+Much of Wells's childhood was spent in the basement kitchen at Atlas House, as the shop was called. At the age of 7, he was laid up for several weeks with a broken leg and became an avid reader. A photograph taken in 1876 shows the smart, well-groomed 10-year-old sitting at a table with a book laid open in front of him. However, the family fortunes declined towards insolvency, and soon his school fees remained unpaid. When he was barely into his teens his mother left home to return to Uppark as resident housekeeper. The young 'Bertie' also left home to become a draper's apprentice, working a thirteen-hour day and sleeping in a dormitory with the other apprentices. Like his heroes Kipps and Mr Polly, he felt he was bound to the drapery trade for the rest of his life. 
+After two years at Hyde's Drapery Emporium in Southsea, Wells left his situation, using the threat of suicide to force his mother to release him from his apprenticeship. His talents had made an impression on Horace Byatt, the headmaster of Midhurst Grammar School near Uppark, who took him on as a student assistant, and encouraged him to take a series of examinations in elementary science. There was a new scheme for training science teachers, and, thanks to his examination successes, in 1884 Wells was awarded a government scholarship to study biology at the Normal School of Science (now Imperial College) in London. Here, in what was perhaps the most decisive encounter of his life, he became a pupil-of T. H. Huxley, the friend of Charles Darwin and champion of Darwin's evolutionary theory. 
+When he became a science student, Wells had already undergone a strenuous process of self-education. At Uppark, on his infrequent visits, he would steal away from the servants' quarters to the library of the great country house. Arriving in London from the English provinces steeped in the writings of Plato, Swift, Voltaire, and Gibbon, Wells found in post-Darwinian science a continuation of the subversive rationalism of the Enlightenment. The settled Victorian age was cracking up: scientific and technological developments, and the doctrines of socialism to which he soon became committed, would surely determine the future. 
+Wells took a prominent part in student life, entertaining his contemporaries at the Debating Society and editing the college magazine (where the earliest version of The Time Machine was published). His experiences in the biology lab under Huxley fired his imagination for the rest of his life. But Huxley soon fell ill, and Wells chafed at the limitations of the other professors. Moving on to study physics and geology, he became discontented with the utilitarian, teacher-training ethos of the" Normal School, and failed his final examination in 1887. Physically he was in bad shape; his grant of one guinea a week was barely enough to live on. After leaving college he spent a few weeks in his first teaching post before suffering an accident on the football field which left him with a lung haemorrhage and a crushed kidney. Thin, undernourished, and suspected of being tubercular, Wells was now fighting for his life. 
+The next dozen years were punctuated with a series of dangerous relapses. He returned to London as a science teacher, took his B.Sc, and worked as a tutor for the vui Biographical Preface 
+University Correspondence College. His first book, the Text-Book of Biology, is a product of this period. In 1893, when chronic ill-health forced him to give up teaching, he found he could make a living as a journalist, reviewing fiction and drama, writing scientific and educational essays, and—most importantly—producing short stories and comic sketches for the London evening papers. The 1890s, as he later recalled, were a golden age for the writer of short fiction. The magazines which bought his short stories also serialized the longer 'scientific romances'— The Time Machine, The Island of Doctor Moreau, The Invisible Man, The War of the Worlds, and The First Men in the Moon —which soon flowed from his pen. The impact of these books was immediate. Hailed as a 'man of genius' on the strength of The Time Machine in 1895, by the end of the century his books were already being translated into several languages. Soon he was moving in literary circles and making intimate friendships with such fellow-writers as Arnold Bennett, Joseph Conrad, George Gissing, Henry James, and Bernard Shaw. 
+In 1898, after a final bout of ill-health, Wells moved to Sandgate, where he had a house built suitable for an invalid and overlooking the English Channel. Conrad, James, and Stephen Crane were among his neighbours on the Kent coast. He finished the first of his autobiographical novels, Love and Mr Lewisham, and as his health improved his thoughts turned to the social and political themes pursued in a long series of books beginning with Anticipations, The Discovery of the Future, and A Modern Utopia. To the imaginative depiction of the future in his scientific romances he now added a reputation for serious social prophecy. He first joined and then spectacularly quarrelled with the Fabian Society of Shaw and the Webbs, becoming a leading figure of the intellectual Left. By the end of the Edwardian decade he had written his comic masterpieces Kipps and The History of Mr Polly, as well as Tono-Bungay with its combination of fictive autobiography and a scathing, panoramic view of English society. 
+Wells was coming to rival Hardy and Kipling as one of the most famous and prestigious writers of the English-speaking world. Yet he remained restless and troubled, and his career was soon to take another decisive turn. 
+After a brief first marriage he had settled down with Amy Catherine Robbins ('Jane'), with whom he had two sons. His marriage remained stable although he soon embarked on the long series of sexual relationships he was to describe in H. G. Wells in Love, the posthumous third volume of his autobiography. His brief liaison with a young Fabian led both to his suffrage novel Ann Veronica and to the birth of a daughter, Anna Jane. In 1912 Rebecca West, then a young journalist, scoffed at him as the 'old maid among novelists' in a review of his novel Marriage; Wells and West became lovers shortly afterwards and, all too soon, Rebecca gave birth to a son. These events not only caused an atmosphere of scandal but— together with his quarrel with the Fabians—suggested an outlet for his crusading instincts. After 1910 his main fictional vehicle was the 'discussion novel' or novel of ideas, a mixture of semi-autobiographical narrative with a series of treatises or dialogues about the state of the world and the changing conditions of male-female relationships. 
+The New Machiavelli was his first and best novel of this type. Among its successors the most notable was the best-selling Mr Britling Sees It Through, published at the height of the First World War. Wells had invented the slogan The War That Will End War', and he became increasingly concerned with peace-making and the setting up of a supranational authority to avoid future conflicts. He now returned quite explicitly to the role of an educator, writing a series of encyclopaedic textbooks beginning with The Outline of History. His concern with promoting world citizenship and the idea of a World State were reflected in the Outline and in campaigning manuals such as The Open Conspiracy. Characteristically, The Outline of History ends with a review of humanity's prospects in the twentieth century which includes he was a great intellectual liberator, the prophet of an open .ather than a closed society, and one of the most dazzling literary figures of a period when the agency of mass communication was still the printed word (though in later years Wells eagerly turned on occasion to cinema and radio). Describing himself as a 'conscious common man', he wrote tirelessly for ordinary people, and is one of the great exemplars of the democratic man of letters. 
 
+INTRODUCTION
+
+Eighteen ninety-five was Wells's annus mirabilis. So unknown was he at the beginning of the year that in May, when the first American edition of The Time Machine appeared, his name was printed as 'H. S. Wells' on the title-page and no one noticed the error. By the end of 1895 he had two fictional romances to his credit— The Time Machine and The Wonderful Visit —together with a collection of humorous essays and a volume of short stories. He had finished The Island of Doctor Moreau, to be published the following spring, and was about to sign a contract for the as-yet uncompleted War of the Worlds. The insecure former schoolteacher had metamorphosed into a story-teller of genius, confident of further successes, his imagination in full flood. If we only had Wells's productions of 1895 to go by, he would still be a remarkable writer, and would still be among the founding fathers of modern science fiction. 
+
+In The Time Machine and The Island of Doctor Moreau Wells's innovation was to set challenging scientific ideas in the context of a brief, fast-paced adventure narrative. The Time Machine, his most influential book, is little more than a novella. Within this small compass he evokes the vast perspectives appropriate to a vision of time, evolution, and human ecology —what the nineteenth century grandly referred to as 'man's place in nature'. To achieve this concentration of action and thought, each 'scientific romance' had to begin, as the Time Traveller begins, by controverting 'one or two ideas that are almost universally accepted' (p. 3). In Wellsian fiction travel along the time-dimension is possible, and wild animals can be shaped into human beings on the operating table. Invisibility, anti-gravity, Martians, and moon-men are all waiting to be discovered. Scientifically, these 'opposite ideas' might be in advance of their time or pure hocus-pocus. 
+
+Most of them were modern transpositions of folk-tale motifs such as the dragon, the beast-man, the magic wand, and the flying carpet. But where Wells differs from earlier writers of scientific fantasies is in his rigour in working out the logical consequences of each departure from conventional notions. The improbable invention becomes the basis of a controlled thought-experiment, estranging us from the familiar world and revealing it from a new angle. Edward Prendick, the narrator of The Island of Doctor Moreau, sums up the Wellsian fictional ideal when, imprisoned on Dr Moreau's island, he finds himself contemplating 'the whole balance of human life in miniature' (p. 184). 
+
+Like other great writers who have won instant popularity, Wells in his scientific romances was responding at a profound level to the opportunities of his age. One of these, in the 1890s, was an unprecedented demand for striking short fiction. The Victorian three-volume novel was dead and buried, and the New Journalism appealed to a public transformed by the spread of literacy and the growth of urban commuting and white-collar employment. The press was the dominant entertainment medium, and narrative flair and literary personality were marketable as never before. Forty years earlier the great pioneer of the modern short story, Edgar Allan Poe, had died in poverty and obscurity. Now Rudyard Kipling and Robert Louis Stevenson were the 'tellers of tales' whose successes inspired every struggling writer of fiction for the newspapers and magazines. 
+
+The most newsworthy literary personality of the day was Oscar Wilde; and Wilde's disgrace and imprisonment for homosexuality were the most shocking public events of 1895 in England. Looking back on The Island of Doctor Moreau after a quarter of a century, Wells would declare that the 'scandalous trial and graceless and pitiless downfall of a man of genius' had influenced its conception,  though the first drafts of the novel were already written when Wilde's ordeal began. The two men never met, but Wells and Wilde had a mutual friend in W. E. Henley, the indefatigable editor who commissioned The Time Machine. Kipling and Stevenson, too, were significant influences on the young Wells. Stevenson had died in 1894, the year in which Kipling published The Jungle Book, which is parodied by the 'Sayers of the Law' on Moreau's island. Wells's fiction parallels and surpasses Stevenson's Strange Case of Dr Jekyll and Mr Hyde (1886) in its portrayal of the dark side of the psyche and the precari-ousness of the cultural structures and moral restraints that were held to separate the 'human' from the 'animal' elements in our nature. 
+
+In Dr Jekyll and Mr Hyde, the respectable doctor uses drugs to create a second, criminal self in the laboratory. Stevenson, who had no scientific training, is not concerned with chemical or biological plausibility. The cognitive disciplines that figure in his story are those of criminal psychology and detective-work. In the early Wells, whether we think of the Time Traveller theorizing about the Eloi and Morlocks or of Prendick sheltering with the Beast Folk in a but in the forest, the sciences that count are evolutionary biology and anthropology. 
+Moreover, he was deeply schooled in the tradition of Utopian and anti-utopian thought, from Plato and Swift to Edward Bellamy and William Morris. Wells was, from the beginning, a political writer where Stevenson and Poe were not. 
+One thing that Stevenson and Wells had in common was an upbringing tinged with Protestant fundamentalism. The split personality of Jekyll and Hyde and the bifurcation of humanity into The Time Machine's Eloi and Morlocks echo the Calvinistic division of humanity into the Elect and the Damned. Wells's father, a happy-go-lucky games-player, and his devout, repressed mother embody the traditional English cultural divide between Cavalier and Puritan types. The word 'Eloi', Hebrew for 'God', is spoken by Jesus in St Mark's 
+
+Gospel, while 'Morlock' resembles 'Moloch', the name of an Old Testament idol and one of Milton's fallen angels. Dr Moreau, the ruthless, authoritarian and white-haired creator of souls, is to some extent a parody of the Old Testament God, and no sooner is he dead than Prendick instinctively tries to subjugate the Beast Folk by threatening them with the prospect of Moreau's resurrection. Science may provide the subject-matter of these stories, but they are full of satirical side-glances at the Christian account of the Creation, the Fall, and the Last Judgement. 
+In The Time Machine, the Newspaper Editor responds to the Time Traveller's dishevelled and haggard reappearance by wondering if he has 'Nebuchadnezzar phases' (p. 15)—an allusion to the Book of Daniel which may be lost on most modern readers. Following a prophetic dream, Nebuchadnezzar lost his kingdom and was driven from among men to make his dwelling with the beasts of the field. The narrator of The War of the Worlds speaks of his 'sense of dethronement' and of being reduced to an 'animal among the animals' by the Martian invasion. Like an animal, he is forced to 'lurk and watch, to run and hide; the fear and empire of man had passed away'. 2 The Time Traveller and Prendick suffer a similar fate. Prendick at his lowest point differs from Moreau's Beast-Men only in his superior ability to cheat and mislead them: 'An animal may be ferocious and cunning enough, but it takes a real man to tell a lie', he reflects (p. 209). 
+
+What was it in Wells's outlook and experience that led to these haunting visions of human beings reduced to animal status? The Time Machine and The Island of Doctor Moreau reveal the intensity of his imaginative response to the Darwinian theory, which he encountered as a student of T. H. Huxley's in 1884. Huxley, 'Darwin's bulldog', had trounced Bishop Wilberforce in a famous debate on the evolutionary  theory at the British Association for the Advancement of Science in 1861. The question at issue between Huxley and the bishop was, were humans more closely allied to the apes or the angels? Huxley convinced his hearers that the biological view of the 'descent of man' was not incompatible with human dignity. Writing a generation later when the fact of evolution was almost universally accepted (though its mechanism remained controversial), Wells went much further than Darwin or Huxley in questioning the grounds of human superiority and self-satisfaction. 
+
+Although the theory of evolution is indissolubly connected with the name of Charles Darwin, the idea had begun to take root well before the publication of The Origin of Species in 1859. Geologists and palaeontologists had revealed the vast age of the earth and the presence of extinct animals throughout the fossil record. The discovery of the dinosaurs (the word 'dinosaur, meaning a fearsome lizard, dates from 1841) lent a new meaning to the biblical legends of the Flood and of a vanished race of giants. Dinosaur bones took a hold on the popular imagination that they have never relinquished. Wells appeals to these sentiments in the Epilogue to The Time Machine, where his narrator speculates that the Time Traveller might have visited the Jurassic past. Darwin's theory of natural selection set out to explain the processes of development that could have led without divine intervention from the Jurassic and earlier phases to the present state of the animal kingdom. Wells remained faithful to the theory of natural selection at a time when many biologists were still sceptical. (The significance of Mendel's work on genetics, which gave powerful support to the Darwinian hypothesis, was not recognized until the twentieth century.) 
+
+The creation of new species and genera by the dying out of some genetic strains and the gradual modification of others is an immensely slow process. Moreover, the new species that establish themselves are little more than the survivors on a corpse-strewn evolutionary battlefield. Darwin conceived of natural selection as the mechanism of evolution as a result of studying Thomas Robert Malthus's Essay on the Principle of Population (1798). Malthus had demonstrated (in Darwin's words) that 'many more individuals of each species are born than can possibly survive'. 3 (By 'survival' Darwin means survival to the age of reproduction.) Since each  individual member of a species is to some extent unique, Darwin concluded that the constant variation within each species gave some individuals a better chance of surviving and reproducing themselves; these individuals, the harbingers of a new evolutionary trait, were said to be 'naturally selected'. Darwin's account of evolution through natural selection is resolutely optimistic—but his readers tended to see things differently. Writing a generation after The Origin of Species, the young Wells seemed almost to revel in the bleakness of the evolutionary narrative. 'Natural selection', he declared in his early science journalism, 'is selection by Death.' The long roll of palaeontology is half filled with the records of extermination.' 
+
+This epic of death and extermination had been turned into a great popular spectacle by the natural-history museums of the later nineteenth century. The new museums, with their temple-like construction, dinosaur galleries, and ubiquitous skeletons, rivalled the railroad stations, boulevards, exhibition halls, and parliament buildings in their contribution to the civic architecture of the major industrialized nations. Wells as a child was taken to see the life-size plaster reproductions of the dinosaurs at the Crystal Palace in Sydenham. His student days were spent across the road from the Natural History Museum in South Kensington, which opened in 1881. Both buildings are among the models for the Palace of Green Porcelain in The Time Machine. 
+
+Not only the course of evolutionary history but the practical realities of biological instruction in the classroom. As every teenager knows, beyond a certain point the decision whether to study biology is influenced by the student's attitude to dissection. Wells's own Text-Book of Biology, published in 1893 and several times reprinted, is not a book for those who are squeamish about cutting up frogs and rabbits. At a higher level, first-year medical students proceed from animal dissections to their first human corpse. Though he never studied medicine, the anatomy and physiology of human beings is a topic of speculation throughout Wells's scientific romances. On the fly-leaf of the copy of his biology textbook that he presented to Amy Catherine Robbins, his pupil and future wife, he drew a rough pen-and-ink sketch, one of the numerous 'picshuas' with which he liked to amuse his family and friends. The subject of the 'picshua' is a rabbit dissecting a man. 
+
+In the spring of 1893 Wells suffered a recurrence of the lung haemorrhages that had begun after his footballing accident several years earlier. It was this relapse that ended his career as a science teacher and forced him to earn a living from writing. He was diagnosed (erroneously) as a consumptive, and the damage to his lung and kidney must have given him a frightening sense of mortality. (The short humorous essay that he wrote about this experience is entitied 'How I Died'. 6 ) These brushes with physical debility and death underlie both the prophetic urge of The Time Machine and what his contemporaries saw as the morbidity of The Island of Doctor Moreau. The Time Machine envisages a future of 'zoological retrogression', 7 together with the coming heat-death of the solar system. (Had Wells been writing in the early twentieth century when the implications of radioactivity 5 Copy of Text-Book of Biology in Wells Collection, University of Illinois at Urbana-Champaign. 
+
+ In The Island of Doctor Moreau, the comfortable assumption that progress from the bestial to the civilized state and vice versa ought to take many millennia suffers a rude shock. In Dr Moreau's laboratory animals can acquire human characteristics within a few days, and once they are set free to roam his island the process of reversion takes only a few months. The time-scale of Prendick's narrative suggests less the stateliness of evolutionary change than the spread of disease and degeneration throughout the human body. 
+Wells's apprenticeship as a science-fiction author began in the student magazine that he founded in the 1880s, the Science Schools Journal. It was here that a primitive serial version of The Time Machine was published with the title The Chronic Argonauts'. Wells's inventor, Dr Nebogipfel, expounds the principles of time-travelling before disappearing and then reappearing on his machine; but the story breaks off before we can hear of his journey, which has taken him and his unwilling passenger to the year 17,901. Shortly after the final instalment had been published in 1888, Wells wrote to his friend Elizabeth Healey that The Chronic Argonauts is no joke. There is a sequel—It is the latest Delphic voice but the Tripod is not yet broken.' 8 There were further intermediate stages in the writing of The Time Machine, including the serial stories that Wells contributed to W. E. Henley's papers the National Observer and the New Review. Nevertheless, the prophetic 'sequel' promised in his letter to Healey is, in effect, the narrative that we now have before us. 
+
+It begins, fittingly enough, with a paradox. The Time Traveller is expounding a 'recondite matter', but he is doing so not to a learned audience sitting uncomfortably in a lecture-hall, but to a miscellaneous group of friends after dinner at his house. It is an atmosphere in which 'thought runs gracefully free of the trammels of precision' (p. 3). The word 'recondite', from the Latin recondere meaning to put away or hide, was perhaps more common in the nineteenth century than it is now; and it was most frequentiy used in scientific contexts. The Oxford Dictionary cites Herbert Spencer as speaking of the 'most recondite and abstract inquiries of Science'. The Traveller's guests sip their champagne around a brightly burning fire in chairs that, 'being his patents, embraced and caressed us rather than submitted to be sat upon' (p. 3). The setting for his demonstration of a time machine is carefully staged, and no hypnotist or spiritualist could do more to establish his ascendancy and dull the critical faculties of his hearers. 
+The Time Traveller's friends know him as an inventor and illusionist who is not above playing practical jokes on them. The Medical Man recalls the ghost he showed them last Christmas. 
+
+At times in the opening section Wells's narrative resembles the contemporary proceedings of the Society for Psychical Research, which sent its observers to spiritualist seances with the aim of detecting instances of fraud. When the Traveller comes to demonstrate the miniature time machine, he makes sure that his guests all have a clear view of it, and then asks the Psychologist to press the lever to start it on its voyage. The breath of wind that blows out the candle, the ghostly vision of the vanishing machine, and the narrator's assertions that there was no trickery are all reminiscent of the anxious depositions of psychic investigators. But the Traveller is a scientist, and what he shows his guests is not the appearance of a ghost but the disappearance of a piece of solid machinery. Then, as if to clinch the question of experimental verification, he travels into the future himself. The narrative undergoes a profound change, from the tale of a suburban conjuring-trick to one of sublime vision and prophetic import—the riddle of the future being symbolized  by the Sphinx that the Traveller confronts at the end of an exhilarating, terrifying journey. He has reached the year 802,701. 
+
+Why 802,701? The downward curve of the future revealed by The Time Machine broadly mirrors the upward curve of prehistory. The rate of human biological evolution—or in this case devolution—by natural selection is a function of the interval between generations and the slow reproduction rate of human beings. This means that the immense distance of time crossed by the Traveller roughly matches the development oihomo sapiens as revealed by the archaeological record. (Today, however, the length of human prehistory has been greatly extended and the most primitive 'missing link' ancestor of humanity is dated at 4.4 million years old.) In addition, the figure 802,701 may be taken to imply a process of cyclic descent and degeneration; but there are other considerations which may have led Wells to this curious number. In The Chronic Argonauts' the two voyagers reached the year 17,901, that is, 1901 plus 16,000 years. If we locate the invention of the time machine early in the twentieth century (like the Martian invasion in The War of the Worlds), then 802,701 also implies 1901 as baseline: it is 1901 plus 800,800 years. Four-fifths of a million years might account for biological evolution, but why the additional 800 years? A likely answer is that the apparently seamless future depicted in the age of the Eloi and Morlocks conceals two different time-scales, one for biological evolution, the other more appropriate to the social, cultural, and architectural features of Wells's future society. 
+
+The inhabitants of the future live among the ruins of a monumental civilization which had evidendy been knowledgeable about, and culturally continuous with, our own. The two unmistakable signs of this are the future museum— the Palace of Green Porcelain—and the antiquarian and revivalist architecture first seen in the statue of the White Sphinx. Thanks to a hidden double time-scale, Wells is able  both to exhibit a future humanity reduced to bestial status and to offer a series of satirical reflections on modern civilization and its prospects. At first the Traveller thinks he has entered a communist Utopia. What he has in mind is evid-entiy the pastoral communism envisaged in William Morris's News from Nowhere (1890), rather than the high-tech future metropolis of Edward Bellamy's Looking Backward (1887), to which Morris was responding. 9 Later Wells's protagonist tries out a Marxist or quasi-Marxist interpretation of the two degenerate races, with the Eloi standing for a decadent aristocracy and the Morlocks as the vengeful, dispossessed workers. Finally he comes to see them in biological terms as predator and prey. His dislike and dread of the Morlocks is so strong that he never really accepts that they remain civilized to some extent, despite the evidence that they 'farm' the Eloi, feeding and clothing them until it is time to butcher them in underground abattoirs. The world of the Eloi and Morlocks is, in truth, more alien than the Traveller—carried away by his understandable predilections for beautiful people and splendid architecture—can fully acknowledge. 
+
+Though the Eloi welcome his arrival and teach him their language, the Traveller is soon disillusioned by their failure to live up to his intellectual expectations. At one point he complains of having 'no convenient cicerone' (after the Italian for tourist guide) 'in the pattern of the Utopian books' (p. 50). Instead, he has to make do with the dumb devotion of Weena, whom he has saved from drowning. Most readers find his mixture of condescension and callousness towards Weena hard to take, perhaps because Wells's underlying premiss is equivocal here. Mentally and physically, she is in some ways more like a pet animal than a human companion; in this respect she might be compared with the Dog Man in  The Island of Doctor Moreau. Yet Wells's (possibly misguided) narrator alludes to Weena in the final sentence of the story, finding in her existence a token that 'even when mind and strength had gone, gratitude and a mutual tenderness still lived on in the heart of man' (p. 91). On Weena's slender shoulders rests the whole burden of human survival. 
+
+The Traveller's first impressions of the Eloi and Morlocks mark a telling contrast. In his trance-like state before the Sphinx, he foresees that in this future society he may be reduced to a 'foul creature', an animal among the animals; but a moment later, when the first of the Eloi appears, he quickly regains confidence. They seem to meet on terms of equality: 'He came straight up to me and laughed into my eyes' (p. 23). (In retrospect, such mutual recognition as this implies is entirely superficial.) Now consider the Traveller's first encounter with a Morlock at close quarters: 
+A pair of eyes, luminous by reflection against the daylight without, was watching me out of the darkness. 
+The old instinctive dread of wild beasts came upon me. I clenched my hands and steadfastly looked into the glaring eyeballs. I was afraid to turn . . . Overcoming my fear to some extent, I advanced a step and spoke. I will admit that my voice was harsh and ill-controlled. I put out my hand and touched something soft. At once the eyes darted sideways, and something white ran past me. (p. 46) 
+
+Earlier, as he looked into the sightless eyes of the Sphinx, it was the Traveller who turned away in panic. Now his confrontation with the Morlock results in instant enmity and ill-controlled aggression. Even before his meeting with the Morlocks we have witnessed the Time Traveller's emotional instability; the rest of his time in 802,701 will be divided between rational ethnological observation and outbursts of compulsive brutality. The more that he learns of his antagonists' mental operations and way of fife, the more he must hate them and regard them as irretrievably bestial. His (well-founded) fear of being trapped by the Morlocks is an effective satire on the Utopian romances of the near future which are among the principal precursors of The Time Machine. The visitors who bring back news of the socialist Utopias of Bellamy and Morris are only too anxious to be allowed to reside there permanently. The Time Traveller, by contrast, would have left the world of the Eloi and Morlocks sooner had he been able to. When he finally makes his melodramatic escape, it is only to face a further ordeal in the age of giant crabs, followed by the sunset world in which life has apparendy returned into the sea. This 'remote and awful twilight' (p. 85) is set 30 million years ahead. 
+
+Wells's Traveller is a somewhat flawed individual—at times violent, self-pitying, and vain—who shows immense daring and claims to have solved the greatest mystery facing mankind, the riddle of human destiny. Brief though the story is, it offers an image of modern heroism with both classical and Romantic overtones. To the Eloi and Morlocks he must seem an almost supernatural being, behaving cruelly and erratically like one of the Greek gods. He arrives in the middle of a thunderstorm, and the Morlocks especially come to associate him with blinding light and heat. Like Prometheus stealing fire from heaven, he takes camphor and a box of matches from the Palace of Green Porcelain. In human eyes, his legendary status is assured by the fact that no sooner has he come back and told his story than he disappears on a second journey. The loyal narrator (presumably identifiable with 'Hillyer' whom the Traveller sees momentarily just before his return in section 12) tells us that even before the time machine was made, its inventor had no illusions about the future: he 'saw in the growing pile of civilisation only a foolish heaping that must inevitably fall back upon and destroy its makers in the end' (p. 91). Undaunted, he refuses to remain in ignorance of what Wells in one of his later prophetic novels called the Shape of Things to Come. It is the Time Traveller's second journey that finally marks the distance between him and ordinary complacent humanity. 
+
+He remains in thrall to the time-dimension, just as Morris's and Bellamy's narrators were in thrall to Utopia. 
+In The Island of Doctor Moreau the scientist as hero is succeeded by the scientist as villain. Both the Traveller and Moreau are modern counterparts of the legendary wizard or alchemist working in secret and in his own household. Like Mary Shelley's Frankenstein, Dr Moreau and his assistant are in exile from the wider scientific community symbolized by the modern university. Moreau had to move his laboratory from England to an uninhabited Pacific island when his experiments on live animals were exposed by a journalist. Montgomery was forced to abandon his medical studies at University College, London, after some unspecified lapse (presumably involving sexual deviancy). Moreau's disgrace reflects the controversy over vivisection, which was more than a quarter-of-a-century old when Wells was writing. The Vivisection Act limiting the practice of dissection in England had come into effect in 1876. Edward Prendick, an amateur biologist, obscurely remembers the journalist's pamphlet detailing the 'Moreau horrors'. Once he is on the island, Prendick becomes convinced that Moreau's grisly experiments are conducted not on animals but on human beings, and that he is a predestined victim. At this point, the horrors that reverberate through the novel address not just nineteenth-century anxieties but the most nightmarish of twentieth-century abuses of science, such as the medical experiments on human subjects carried out in the Nazi death-camps. 
+
+Since Moreau is both a Frankenstein figure and a precursor of the scientist as war criminal, it would be easy to assume that he has little in common with more respectable, orthodox researchers. But this is not wholly the case. He published his earlier results in learned journals and engaged— with 'brutal directness' (p. 123), admittedly—in public discussion. Prendick feels that, at the time of his disgrace, he should have had more widespread support from the scientific community. Central to Moreau's creed is the belief that The study of Nature makes a man at last as ruthless as Nature' (p. 163). Without such ruthlessness, as the great twentieth-century physiologist J. B. S. Haldane has testified, few of the advances in surgery and biotechnology that we now take for granted would have been possible. Haldane, a champion of modern scientific materialism, could have had Moreau in mind when he wrote that 'if every physical and chemical invention is a blasphemy, every biological invention is a perversion'. 10 
+The Time Traveller outlines his invention right at the beginning of The Time Machine, but Dr Moreau's explanation has to be forced out of him. By the time that it comes, two-thirds of the way through the narrative, Prendick has undergone a degree of emotional disturbance from which he will never fully recover. (Wells here shows an early understanding of the effects of psychological trauma, or 'shell-shock' as it would be called after the First World War.) Prendick's excitable narrative makes this a more lurid and sensational novel than The Time Machine, though many of its underlying themes are similar. 
+
+Apart from its concluding paragraphs The Island of Doctor Moreau is set entirely in the Pacific, a favourite locale for English adventure fiction from Defoe to Stevenson and R. M. 
+
+Ballantyne, but one which Wells knew only from his reading. The extensive nautical vocabulary of the opening chapters is found nowhere else in his writings, and must have been mugged up for the occasion; for all that, Wells's prose is at its most vivid and least literary in this short novel. Where Moreau's retreat differs from the South Sea islands of earlier writers is in the absence of native inhabitants. Nor are there any indigenous animals. Virtually everything has been imported into the fantastic artificial safari park that Moreau 
+10 J. B. S. Haldane, Daedalus: Or Science and the Future (London, 1923), 44-Introduction 
+has dreamed up. (This aspect of Wells's novel in turn has inspired its many modern admirers, down to Michael Crichton's Jurassic Park.) The brief introduction to the first edition—suppressed in most later editions during Wells's lifetime, but reprinted in this volume as an Appendix—identifies Moreau's island with a small volcanic outcrop, Noble's Isle, visited by a naval party four years after the events that Prendick recounts. The only living things that the sailors found were hogs, rabbits, white moths, and 'some rather peculiar rats' (p. 222). The hogs and rabbits were doubtless brought in by Moreau and Montgomery, while the rats might have come from Moreau's laboratory; the likelihood is, however, that all of his experimental fauna has become extinct. 
+Prendick's story begins melodramatically with a shipwreck, a narrow escape from being eaten by his fellow-castaways, and salvation by the timely arrival of the Ipecacuanha, which soon appears to be a ship out of hell. The drink he is given to revive him resembles iced blood. 
+
+Montgomery, his rescuer, and the ship's drunken captain are at loggerheads over the cargo of animals for which Montgomery is responsible. Meanwhile, Prendick has become aware of the peculiar gaze of Montgomery's assistant, M'ling. 
+
+M'ling is dressed in blue overalls, but his appearance and behaviour are stamped inescapably with what the nineteenth century called the Mark of the Beast—though Prendick does not recognize this at first. As he was carried on board the Ipecacuanha he registered a 'dark face with extraordinary eyes' (p. 99). Later, looking into M'ling's eyes, he is reminded of the 'forgotten horrors of childhood' (p. 110) and feels an instinctive dread; but it is M'ling, not he, who turns away first. Prendick's encounters with M'ling foreshadow his many later moments of eye-contact with the Beast People on the island, notably his psychological duel with the Leopard Man in Chapter 9. These episodes of inter-species power-struggle expressed through the gaze do much to intensify the fear and horror in the story. To meet an animal face to face  and to look it in the eyes is an unusual experience for most people, both because of physical differences and because of our preconceptions which prevent us from encountering animals on terms of equality. In Wells's novels such mutual probings reveal the uneasy threshold between humanity and non-humanity. 
+
+In The Island of Doctor Moreau, the master-vivisectionist subjugates the Beast Folk to his will, torturing them in the laboratory, changing their shapes, and then making them observe the Law prohibiting any return to their instinctual behaviour. Once Moreau is dead, Prendick soon abandons his half-hearted attempt to take over his authority, preferring instead to compromise with the Beast Folk and (for a time) to share their huts in the forest. If Moreau is guilty of criminal ruthlessness, many of Prendick's actions are muddled and inglorious. His terror of Moreau is manifestly exaggerated. Had he been less stand-offish towards Montgomery, he might have averted or at least postponed the latter's self-destruction. Moreover—a practical rather than a psychological blunder—it is Prendick who, without pausing to investigate, lacks over the lamp which eventually sets fire to the compound and Moreau's laboratory. Prendick's loss of human status and his reduction to an animal existence is partly the consequence of his own mistakes. 
+
+At the same time, it is these very mistakes which invite our sympathy. Prendick is a castaway whose haunted and terrorized imagination is—unlike Moreau's diabolical imagination— an all-too-human weakness. As he introduces Prendick to the island, Moreau self-consciously describes his laboratory as a 'land of Bluebeard's chamber', adding that it is 'Nothing very dreadful really—to a sane man' (p. 121). Moreau's self-assurance about the criteria for sanity takes us to the heart of the debate over vivisection and other morally questionable scientific procedures. On Moreau's island torture and pain are inescapable because he alone wills these things and believes he can justify them. (Wells was clearly aware of the theological parallel with the human suffering permitted by an omnipotent God.) As Prendick listens to the crying of the puma, he reflects that It was as if all the pain in the world had found a voice' (p. 127). Today we are more familiar with representations of torture, both in the news media and in fiction, than Wells's contemporaries were. We may have become a little desensitized to those aspects of The Island of Doctor Moreau that made one of its early reviewers accuse its author of having tasted blood. 11 Yet the raw suffering in this novel is only momentarily present in The Time Machine, and it is hardly ever found in Wells's later fiction. What may be more typically Wellsian is Prendick's loss of faith in 'the sanity of the world' (p. 185)—his generalized sense of universal insanity. 
+
+When its author commented on The Island of Doctor Moreau in retrospect, he seemed to find it an awkward text that he had to explain away. 'Now and then, though I rarely admit it, the universe projects itself towards me in a hideous grimace', he confided in introducing the novel in 1933. 12 After his early scientific romances, Wells's books would often take the form of programmatic statements about the meaning of life; but occasionally he would become exasperated with the political failures of the twentieth century and ask once again, as he had asked in The Time Machine and The Island of Doctor Moreau, whether life had any meaning at all. (Above all, he was to do so in his distressing last book Mind at the End of its Tether.) What redeems Prendick's narrative from total despair is an artistic complexity which, by the end of his life, Wells could no longer command. That complexity guarantees the novel's status as (so to speak) the black classic among Wells's writings. 
+
+Moreau as 'consciously grim under the influence of Swift's tradition'. 13 The grotesque parade of the Beast Folk and the marvellously vivid account of their semi-humanity and subsequent reversion are, perhaps, the nearest that any modern writer has come to the demented lucidity of Book Four of Gulliver's Travels. Prendick at the end, back in London but still convinced that he is an animal living among Beast Folk, is very consciously modelled on Gulliver after his return to England. But there are moments, too, of a different sort of comedy, gentler and less self-lacerating than Swift's— for Wells, ruthlessly rationalistic though he could be, is not a paranoid author. Prendick's relationship with the St Bernard Dog Man, and his instinctive humbugging of this loyal beast, show that he remains agreeably human even at the lowest point in his fortunes. Moreover, the last note of the book is one of qualified hope. Both the narrator of The Time Machine and Prendick manage to salvage something—which may or may not be illusory—from the wreckage of zoological retrogression and human dethronement. Hillyer resolutely, perhaps foolhardily, observes in response to the Time Traveller's pessimism that: If that is so, it remains for us to live as though it were not so' (p. 91). Prendick finds solace in the Vast and eternal laws of matter', and declares that 'I hope, or I could not live' (p. 221). Through and beyond the time of his early science fiction Wells, too, went on hoping that something would come of the human experiment. 
+Ibid. 
+
+NOTES ON THE TEXT
+
+The Time Machine, subtitled 'An Invention’, was first produced in book form by the London
+publisher William Heinemann at the end of May 1895; The Island of Doctor Moreau followed
+from the same publisher in April 1896. The Time Machine was dedicated to the poet William
+Ernest Henley, under whose editorship parts of the story had previously appeared in the
+National Observer and New Review in 1894-5. Wells later acknowledged that Henley's
+encouragement, and the tight format needed for a serial story in the monthly New Review,
+were largely responsible for the final shape of The Time Machine.
+
+The compositional process leading from Wells's 1888 story The Chronic Argonauts’ through
+the extant manuscript drafts and the 1894-5 serial versions has been studied by a number of
+scholars (see Select Bibliography). The subsequent publishing history of The Time Machine
+remained unclear until very recently. The Heinemann text stayed in print in various editions
+throughout Wells's lifetime and beyond; but so did two other quite different versions of
+Wells's text. The first of these, the American edition published by Henry Holt in 1895, pre-
+dates Heinemann and is closer to the New Review serial version. It includes a brief ‘kangaroo
+and centipede' episode (in what would be section 11 of the present text) which Wells later
+deleted, and excludes the Epilogue. The second version of The Time Machine diverging from
+the Heinemann is the slightly revised text that Wells prepared for the Adantic edition of his
+collected works in 1924. It is on this that—despite the continuing availability of the
+Heinemann and Holt texts and their derivatives—most modern editions, including the
+present one, are based.
+
+In his preface to Volume I of the Atlantic edition, Wells introduced the revised text of The
+Time Machine as follows: [the writer] has found a copy of the book in which, somewhen about 1898 or 1899, he
+marked out a few modifications in arrangement and improvements in expression. Almost all
+these suggested changes he has accepted, so that what the reader gets here is a revised
+definitive version a quarter of a century old. (London, 1924, xxii)
+
+The new text is readily identifiable by its deletion of chapter-titles, reducing Heinemann's
+sixteen named chapters to twelve numbered sections. The Atlantic edition was carefully
+proofread, but it cannot be accepted as wholly definitive since a few small errors remained to
+be corrected in subsequent editions of The Time Machine —notably the version included in
+Wells's Complete Short Stories, published in 1927 by Ernest Benn, and the 1931 Random
+House edition, which has illustrations by W. A. Dwiggins and a new preface specially written
+by Wells.
+
+The Atlantic edition was limited to 1,670 numbered sets, and was never reprinted. The later
+editions improve upon the Atlantic at certain points, but introduce a host of new
+typographical errors. The present edition, therefore, uses the Atlantic as copy-text, corrected
+against Benn and Random House where appropriate. In one instance, following David Lake's
+published recommendation, a reading found only in Holt and in Wells's manuscript has been
+adopted. This and all other substantive emendations to the Atlantic are fisted below. The
+original Heinemann chapter-titles are listed under ‘Selected Variant Readings’. One of these,
+The Further Vision’, now provides the commonly accepted name for the episode (section 11)
+to which it refers.
+
+The published texts of The Island of Doctor Moreau have a broadly similar history. Once
+again the book has continued to exist in competing versions; but on this occasion Wells made
+
+a much larger number of stylistic changes in preparing the Atlantic edition. Lhe most obvious
+change, however— the deletion of the Introduction to the story by the narrator's nephew,
+Charles Edward Prendick—first appears in the 
+new edition of Moreau published as one of Heinemann's Sevenpenny Novels in 1913. The
+Introduction by his nephew claims to corroborate Edward Prendick's story by identifying
+Moreau's island with Noble's Isle, an uninhabited volcanic outcrop supposedly visited by
+sailors from the Royal Navy ship Scorpion in 1891, four years after the events of the main
+narrative. (The only other appearance of Charles Edward Prendick, or 'C.E.P., is as the author
+of a footnote to Chapter XV of the first Heinemann edition, confirming that his uncle's
+description corresponds in every respect with Noble's Isle.) The deleted Introduction has
+continued to figure in versions of the earlier Heinemann text produced under other imprints,
+both during Wells's lifetime and since. It survives as a curiosity even though Wells rightly
+judged it to be an unnecessary embellishment to the main story. In the present edition it
+appears as an Appendix.
+
+The evolution of The Island of Doctor Moreau through the manuscript versions and the first
+American edition (published by Stone and Kimball in 1896) has been fully studied by Robert
+M. Philmus and others. Unlike The Time Machine, Moreau has no extensive prehistory, nor
+—most unusually for a Wellsian scientific romance—was the story serialized. The substance
+of Dr Moreau's explanation in Chapter XTV did, however, appear in Wells's essay The Limits
+of Individual Plasticity’, published in the Saturday Review in January 1895. Wells
+acknowledged this in a prefatory note to the first edition, adding that: 'Strange as it may seem
+to the unscientific reader, there can be no denying that, whatever amount of credibility attaches to the detail of this story, the manufacture of monsters—and perhaps even of quasi-
+human monsters— is within the possibilities of vivisection.'
+
+Wells's revisions for the Atlantic edition of Moreau have a more complex history than appears
+at first sight. Very recently it has been established beyond doubt that the Stone and Kimball
+edition, like the Holt edition of The Time Machine, represents an earlier version of the text
+even though
+
+it was published four months after the British edition. (The main reason for this would have
+been the slowness of communication, in the days before air transport, between the British
+author or his agent and the American publishers and printers.) According to Robert M.
+Philmus, the Atlantic revisions emerged out of a more extensive set of proposed changes
+made by Wells in preparing a text for the French translator of Moreau, Henry-D. Davray.
+(Davray's translation was published by Mercure de France in 1901.) Once again, the Atlantic
+text thus incorporated changes envisaged but not executed by Wells a quarter of a century
+earlier.
+
+Unfortunately, the Atlantic edition also reproduces a number of errors—or apparent errors—
+inherited from the 1913 Heinemann reprint. For the present edition, I have taken the Atlantic
+as copy-text on the grounds that its stylistic changes are nearly all palpable improvements,
+pruning the text of a good deal of youthful over-writing. I have corrected the Atlantic against
+earlier editions where necessary, but have taken no account of any edition later than 1924.
+There are, however, a few minor instances in which the text included in The Scientific
+Romances of H. G. Wells (1933; published in the USA as Seven Famous Novels by H. G.
+Wells, 1934) reverts to that of the Heinemann editions.
+
+All the substantive emendations to the Atlantic texts of The Time Machine and Moreau to be
+found in the present edition are listed in the first table below. In three instances, I have
+preferred a reading occurring only in the Stone and Kimball edition of Moreau and in MS.
+Another emendation calling for comment is the change from longitude ‘ios.’ to 'io5°w.' in
+the final paragraph of the Appendix. 'io5°E.', printed in all editions that contain the
+Introduction, is manifestly at variance with the co-ordinates given in the preceding
+paragraphs, and makes Prendick's wanderings geographically nonsensical. '105°w.', however,
+places him in the vicinity of the Galapagos Islands, an amateur biologist following
+(accidentally or not) in Darwin's footsteps.
+
+‘Note on the Texts
+
+Key to editions cited:
+
+(i) The Time Machine: A = Atlantic, B = Benn 1927, H = Heinemann
+1895, Ho = Holt 1895, R = Random House 1931.
+
+(ii) The Island of Doctor Moreau: A = Atlantic, H = Heinemann
+
+1896, H2 = Heinemann 1913, S = Stone and Kimball.
+
+(97.26-7) (1314)
+
+(133-13)
+
+(147-35)
+
+(149.26)
+
+(149-34) (159-8)
+
+(167.2)
+
+(168.16)
+
+(185.20-1)
+
+(191.6-7)
+
+The Island of Doctor Moreau
+breaker of water H S raising and stamping H S
+
+in a level place among H S Flesh or Fish H2
+grey creature H S Flesh or Fish S modifications of the passions H H2 S stares out at me H S
+he had left me H S end to their natural animosities H S hot stillness of the tropical afternoon
+HS
+
+beaker of water A H2 rising and stamping A H2
+
+ina level among A H2 Flesh of Fish A [Flesh nor Fish H] great creature A H2 Flesh nor Fish
+A H H2 modification of the passions A stares at me A H2 he left me A H2 end of their
+natural animosities A H2 hot stillness of the hot tropical afternoon A H2
+
+Note on the Texts
+
+Appendix
+
+(222.30) io5°w.
+
+105 E.
+
+SELECTED VARIANT READINGS
+
+The Time Machine
+
+The 16 chapters of H are tided as follows: I Introduction; II The Machine; III The Time
+Traveller Returns; IV Time Travelling; V In the Golden Age; VI The Sunset of Mankind; VII
+
+A Sudden Shock; VII Explanation; IX The Morlocks; X When the Night Came; XI The
+Palace of Green Porcelain; XII In the Darkness; XIII The Trap of the White Sphinx; XIV The
+Further Vision; XV The Time Traveller Returns; XVI After the Story. Chapter XVI is followed
+by the Epilogue. Most chapter-divisions correspond to the section-divisions in A, with the
+following exceptions: I and II comprise $1; V and VI comprise §4; VII and VIII comprise $5;
+XV and XVI comprise $12.
+
+page A reading
+
+(27) the exquisite little sounds of their language caused an immense amount of amusement.
+(37) weeping with absolute wretchedness.
+
+H reading
+
+their exquisite little sounds of the language caused an immense amount of genuine, if uncivil,
+amusement, weeping with absolute wretchedness, even anger at the folly of leaving the
+
+xxxvn
+
+(91) the lonely saline lakes
+(102) (106)
+
+The Island of Doctor
+
+I saw something out of the
+
+tail of my eye, a red flicker,
+
+and turned sharply.
+
+machine having leaked away with my strength, the lonely saline seas
+
+Moreau
+
+I had the discretion to ask no more, one of those slow pertinacious tempers that will warm
+day after day to a white heat and never again cool to forgiveness a silent black figure, staring
+
+at the stars, a drifting smoke, pungent in whiffs to nose and eyes, went drifting. 'It is well.’
+
+To tell you the truth, I feel anxious somehow.’ I saw something out of the tail of my eye, a red
+figure, and turned sharply.
+
+xXxxvm
+
+A CHRONOLOGY OF H.G. WELLS
+
+1866 21 Sept.: Herbert George Wells born at Bromley, Kent, England, the third son of a small
+shopkeeper.
+
+1874-80 Attends Morley's Commercial Academy, Bromley.
+
+1880 Wells's mother becomes housekeeper at Uppark. He works as a draper at Messrs
+Rodgers and Denyer, Windsor, but is dismissed after two months.
+
+1880-1 Temporary posts in a school at Wookey, Somerset, and in a chemist's shop at
+Midhurst, Sussex.
+
+1881 Feb-Mar.: pupil at Midhurst Grammar School. May: starts work at Hyde's Drapery
+Emporium, Southsea, where he signs articles of apprenticeship in June.
+
+1883 July: leaves his post in the drapery. Sept.: becomes student assistant at Midhurst
+Grammar School.
+
+1884 Sept.: enters the Normal School of Science, South Kensington, to study biology under T.
+H. Huxley on a government scholarship.
+
+1885 Success in first-year exams leads to renewal of scholarship. Sept.: studies physics under
+Professor Guthrie. Active in Debating Society.
+
+1886 Studies geology under Professor Judd. Dec: becomes founding editor of Science Schools
+Journal.
+
+1887 June: leaves South Kensington without a degree. July: assistant at Holt Academy,
+Wrexham, North Wales. 30 Aug.: footballing accident leads to a crushed kidney and a lung
+haemorrhage. Nov.: returns to Uppark.
+
+1888 Apr.-June: The Chronic Argonauts’ serialized in Science Schools Journal.
+
+1889 Jan.: assistant at Henley House School, Kilburn.
+
+1890 B.Sc, University of London. Tutor at University Correspondence College, London.
+
+1891 31 Oct.: marries his cousin, Isabel Mary Wells.
+1902 Jan.: lectures on The Discovery of the Future at the Royal Institution.
+
+1903 Mankind in the Making published. Son, Frank Richard, born. Joins Fabian Society.
+1904 The Food of the Gods published.
+
+1905 A Modern Utopia and Kipps published.
+
+1906 Jan.: launches campaign to change Fabian Society constitution. Mar.-May: first visit tc
+United States. In the Days of the Comet and The Future in America published.
+
+1908 New Worlds for Old, The War in the Air, and First and Last Things published. Sept.:
+resigns from Fabian Society.
+
+1909 Tono-Bungay and Ann Veronica published Moves to Church Row, Hampstead. Dec:
+daughter, Anna Jane, born to Amber Reeves after her marriage to G. R. Blanco- White.
+
+1910 The History of Mr Polly published.
+
+1911 The New Machiavelli and The Country of The Blind, and Other Stories published.
+Moves to Easton Glebe, Dunmow, Essex.
+
+1912 Marriage published.
+
+1924-7 The Atlantic Edition of the Works of H. G. Wells (28 volumes with prefaces by Wells)
+published.
+
+1925 Christina Alberta's Father published.
+
+1926 The World of William Clissold published.
+
+1927 Complete Short Stories published. 6 Oct.: death of'Jane’ Wells.
+
+1928 The Open Conspiracy and Mr Blettsworthy on Rampole Island published.
+
+1930 The Autocracy of Mr Parham and The Science of Life published. Moves to London from
+Easton Glebe.
+
+1931 The Work, Wealth and Happiness of Mankind published.
+»xliii
+
+1932 After Democracy and The Bulpington of Blup published.
+
+1 933 Ends relationship with Odette Keun and abandons house at Grasse. The Shape of
+Things to Come published.
+
+1934 Interviews Stalin and Roosevelt. Experiment in Autobiography published.
+
+1935 Moves to his last home at Hanover Terrace, London.
+
+1936 Feb.: film, Things to Come, premiered in London. The Croquet Player published.
+*937 Star Begotten and Brynhild published.
+
+1938 World Brain and Apropos of Dolores published. Dec: visits Australia.
+
+x 939 The Holy Terror and The New World Order published.
+
+1940 The Rights of Man and Babes in the Darkling Wood published.
+
+1941 You Can't Be Too Careful published.
+
+1942 Phoenix and The Conquest of Time published. D.Sc, University of London.
+
+1943 Crux Ansata published.
+
+1945 The Happy Turning and Mind at the End of its Tether published.
+
+1946 13 Aug.: dies in his house at Hanover Terrace.
+
+TIME TRAVELLER
 
  I
 
